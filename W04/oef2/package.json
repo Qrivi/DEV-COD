@@ -1,0 +1,17 @@
+{
+  "name": "oef1",
+  "version": "1.0.0",
+  "description": "Oefening Particles",
+  "main": "index.js",
+  "author": "Kristof Dewilde",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "development": "webpack --watch"
+  }
+}
